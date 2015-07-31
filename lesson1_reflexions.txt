@@ -1,0 +1,42 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    I could compare the two versions of the files, knowing that the first one was working 
+	correctly, so I could review line to line all the differences and spot the bug. 
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    I could review my mistakes and learn from them so I won't repeat them. 
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    You avoid saving too many versions and have a long and useless history. With Git changes are 
+	grouped and saved using logic. 
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Git is designed specifically for programming where there is often a connection between two files. 
+	So if one file is changed, probably and another file must be changed in order for the system to work 
+	correctly. Google Docs on the other hand focus on docs where relationships between files are not so 
+	important. 
+
+How can you use the commands git log and git diff to view the history of files?
+
+    I can use git log to review all the commits and git diff to compare commits using their ids. 
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    I can make changes without fearing that i will completely destroy my code because at any time I can
+	return to an older functional version. 
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    writing a small app for my course "Intro to android "
+	
+Octopus is a strategy Git uses to combine many different versions of code together
+	

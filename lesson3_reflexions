@@ -27,6 +27,6 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    If I want to propose an alternative solution and process it with my co-workers before merging them. 
     
 https://www.udacity.com/wiki/ud775/concept-map?nocache

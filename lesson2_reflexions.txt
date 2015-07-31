@@ -6,4 +6,7 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical change?
 	I can add the changes to the staging area and wait before commit them in order to 
 	secure that all the changes are grouped together. 
-	
+What are some situations when branches would be helpful in keeping your history organized? 
+How would branches help?
+	If i would like to make an alternative version of my project or experiment without losing
+	the original functioning version. 
